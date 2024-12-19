@@ -1,2 +1,3 @@
 # chethy_demo
-My first GitHub repository
+My first Git repository
+Author: Chethan Ganapathy C M
